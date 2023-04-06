@@ -1,0 +1,19 @@
+[
+    {
+      "name": "Route 1",
+      "path": "New York City, NY - Key West, FL"
+    },
+    {
+      "name": "Route 66",
+      "path": "Chicago, IL - Santa Monica, CA"
+    },
+    {
+      "name": "Interstate 95",
+      "path": "Houlton, ME - Miami, FL"
+    },
+    {
+      "name": "US 101",
+      "path": "Olympic National Park, WA - Los Angeles, CA"
+    }
+  ]
+  
